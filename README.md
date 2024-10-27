@@ -76,5 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration and design ideas were derived from various online resources.
 - Thanks to everyone who contributed to this project!
 ```
-
-You can copy and paste this snippet directly into your `README.md` file. Just remember to update any placeholder information (like the repository URL and screenshot path) to reflect your actual project details. Let me know if you need any further modifications or additional sections!
